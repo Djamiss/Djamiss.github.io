@@ -75,7 +75,7 @@ header ul {
 
 
 .headerMenu ul li {
-    
+    display: flex;    
     display: inline-block;
 }
 

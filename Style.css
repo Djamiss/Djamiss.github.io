@@ -73,7 +73,23 @@ header {
 header ul {
 }
 
+
 .headerMenu ul li {
+    
+        display: flex;
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    
+      
+      nav li {
+        margin-right: 20px;
+      }
+      
+      nav a {
+        color: #000;
+        text-decoration: none;
+      }
     display: inline-block;
 }
 
